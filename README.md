@@ -13,7 +13,7 @@
 - 🌱 I’m learning: **Multi-Agent Systems, LLM APIs**
 - 💬 Ask me about: **React, AI, Python, Full Stack Dev, AI Agents**
 - 👯 I’m open to collaborate on: **Open source / AI tools / Hackathons**
-- 📫 How to reach me: [youremail@example.com](mailto:chaudharymohit2307@gmail.com.com)
+- 📫 How to reach me: chaudharymohit2307@gmail.com (mailto:chaudharymohit2307@gmail.com.com)
 - ⚡ Fun fact: I love cricket, coding, and clean UI!
 
 ---
