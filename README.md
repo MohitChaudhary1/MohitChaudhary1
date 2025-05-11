@@ -40,10 +40,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>&nbsp;
 
-  <!-- ML/CV Tools -->
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-opencv-an-open-source-computer-vision-and-machine-learning-software-library-logo-shadow-tal-revivo.png" title="OpenCV" width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-yolo-you-only-look-once-a-real-time-object-detection-logo-shadow-tal-revivo.png" title="YOLO" width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-flask-a-micro-web-framework-written-in-python-logo-color-tal-revivo.png" title="Flask" width="40" height="40"/>&nbsp;
 
   <!-- Special Projects -->
   <img src="https://img.shields.io/badge/CrewAI-Agent_Framework-purple?style=for-the-badge&logo=slack" title="CrewAI" />&nbsp;
