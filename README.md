@@ -51,14 +51,14 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/MohitChaudhary1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MohitChaudhary1&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mohit's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MohitChaudhary1&show_icons=true&hide=issues,contribs&count_private=true&theme=radical&custom_title=✨ Mohit's GitHub Stats ✨" alt="Mohit's GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/MohitChaudhary1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitChaudhary1&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitChaudhary1&layout=compact&hide=html&langs_count=6&theme=radical&title=Top Languages" alt="Top Languages" width="48%" />
   </a>
-</p>
+</div>
 ---
 
 ### 📫 Connect with Me
