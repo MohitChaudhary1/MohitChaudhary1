@@ -52,10 +52,13 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=github-dark-blue" />
+  <a href="https://github.com/MohitChaudhary1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MohitChaudhary1&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mohit's GitHub stats" />
+  </a>
+  <a href="https://github.com/MohitChaudhary1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitChaudhary1&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" />
+  </a>
 </p>
-
 ---
 
 ### 📫 Connect with Me
