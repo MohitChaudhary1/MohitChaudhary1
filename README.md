@@ -23,7 +23,6 @@
 <div align="center">
   <!-- Programming Languages -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
 
@@ -31,8 +30,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" title=".NET" width="40" height="40"/>&nbsp;
 
   <!-- Databases & APIs -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>&nbsp;
@@ -42,8 +39,6 @@
   <!-- Tools -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/tableau-software.png" title="Tableau" width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" title="PowerPoint" width="40" height="40"/>&nbsp;
 
   <!-- ML/CV Tools -->
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-opencv-an-open-source-computer-vision-and-machine-learning-software-library-logo-shadow-tal-revivo.png" title="OpenCV" width="40" height="40"/>&nbsp;
@@ -52,7 +47,6 @@
 
   <!-- Special Projects -->
   <img src="https://img.shields.io/badge/CrewAI-Agent_Framework-purple?style=for-the-badge&logo=slack" title="CrewAI" />&nbsp;
-  <img src="https://img.shields.io/badge/MCP_Server-Multi-Agent-blue?style=for-the-badge&logo=serverfault" title="MCP Server" />&nbsp;
 </div>
 
 
