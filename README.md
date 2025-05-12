@@ -57,6 +57,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitChaudhary1&layout=compact&theme=tokyonight&hide_border=false&langs_count=6&hide=html" width="50%" alt="Top Languages"/>
 
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MohitChaudhary1/MohitChaudhary1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 ---
 
 ### 📫 Connect with Me
